@@ -5,9 +5,9 @@ Demo Google Cloud Function showing use of the Python 3 runtime.
 ## Deployment
 
 ```
-gcloud components update
-gcloud components install beta
-gcloud beta functions deploy getUserDetails --runtime python37 --trigger-http --project <projectId>
+$ gcloud components update
+$ gcloud components install beta
+$ gcloud beta functions deploy getUserDetails --runtime python37 --trigger-http --project <projectId>
 ```
 
 Where `<projectId>` is your Google Cloud project ID.
