@@ -1,6 +1,6 @@
 # Google Cloud Functions Python Runtime Demo
 
-Demo Google Cloud Function showing use of the Python 3 runtime.
+Demo Google Cloud Function showing use of the Python 3 runtime.  [Read my tutorial on Medium](https://medium.com/@simon_prickett/writing-google-cloud-functions-with-python-3-49ac2e5c8cb3).
 
 ## Deployment
 
